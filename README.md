@@ -1,5 +1,6 @@
 # Net6ConaoleApp
-.NET6,  Console App, 開發範本
+.NET6,  Console App, 開發範本   
+IDE: Visual Studio 2022
 
 ## 關鍵模組
 * Microsoft.Extensions.Hosting
