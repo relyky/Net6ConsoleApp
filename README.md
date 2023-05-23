@@ -1,4 +1,4 @@
-# Net6ConaoleApp
+# Net6 Console App
 .NET6,  Console App, 開發範本   
 IDE: Visual Studio 2022
 
